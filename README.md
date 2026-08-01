@@ -4,7 +4,7 @@ A collection of beginner-friendly Python projects covering variables, data types
 
 ## Projects
 
-### Contact Card Generator
+### 1) Contact Card Generator
 Takes basic user details (name, age, phone, email, hobbies) and generates a formatted contact card, with input validation for each field.
 
 **How to run:**
