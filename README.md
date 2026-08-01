@@ -9,7 +9,7 @@ Takes basic user details (name, age, phone, email, hobbies) and generates a form
 
 **How to run:**
 ```bash
-python contact_card_generator.py
+python contactcard.py
 ```
 
 Follow the prompts to enter your details — the program will validate your inputs and print a formatted card at the end.
